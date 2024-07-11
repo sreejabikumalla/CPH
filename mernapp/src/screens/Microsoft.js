@@ -8,7 +8,7 @@ export default function Microsoft() {
       <div><Navbar2/></div>
       </div>
     <div className="d-flex justify-content-center">
-      <div><Card imagesrc={'../images/swathi.jpg'} linkedinURL={"https://www.linkedin.com/in/sripadaswetha/"} name={'Swathi Sripadha'} descript={'ETE,2014-2018<br>Data Engineer at Microsoft'}/></div>
+      <div><Card imagesrc={'../images/swathi.jpg'} linkedinURL={"https://www.linkedin.com/in/sripadaswetha/"} name={'Swathi Sripadha'} descript={'ETE,2014-2018<br>Data Engineer at Microsoft'} emailID={'s.swathi@gmail.com'}/></div>
     </div>
     </div>
   )
